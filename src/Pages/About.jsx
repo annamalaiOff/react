@@ -9,9 +9,9 @@ function About() {
     <h1 className='per-na'>Annamalai</h1>
     <h4 className='infrom'>Front End Developer</h4>
   </div>
-    <div>
+  
       <img className='photo-about' src={photo} alt="" />
-    </div> 
+    
   </div>
   <div className='personal-name'>
       <p className='infrom'>Explain react development and 3 month of experience in Code purple academy. Excited to help your

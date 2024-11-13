@@ -38,16 +38,21 @@ function Contact() {
        <div class="followus">
         <h2>Follow Us</h2>
         <div class="links12345">
+        <a href="https://www.linkedin.com/feed/">
+
           <div class="myconicons">
           <FaLinkedin />
-          <a href=""></a>
           <p>Linked in</p>
           </div>
+          </a>
+
+          <a href="https://github.com/annamalaiOff">
           <div class="myconicons">
           <FaGithubSquare />
-          <a href=""></a>
+          
           <p>Github</p>
           </div>
+          </a>
           <div class="myconicons">
           <FaInstagram />
           <a href=""></a>
